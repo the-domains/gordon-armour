@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Gordon Armour]]></title>
         <description><![CDATA[Gordon Armour]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/gordon-armour/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 27 Apr 2016 22:14:01 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 27 Apr 2016 22:18:25 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/gordon-armour/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Gordon Armour]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/3e9c95d7-0df4-4c80-90cd-7f68e59a67e7.jpg">]]></description>
-            <link>undefinedgordon-armour/index.html</link>
+            <link>https://thegrid.ai/gordon-armour/gordon-armour/index.html</link>
             <guid isPermaLink="false">3d0681d9-3d50-4c50-bb3a-377a01539af9</guid>
-            <pubDate>Wed, 27 Apr 2016 22:13:52 GMT</pubDate>
+            <pubDate>Wed, 27 Apr 2016 22:17:36 GMT</pubDate>
         </item>
     </channel>
 </rss>
