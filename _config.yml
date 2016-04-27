@@ -1,0 +1,28 @@
+name: Gordon Armour
+favicon: null
+layout_spectrum: 0.9480398101732135
+typography_spectrum: 0.14912874554283917
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.9691678218077868
+  lightness: 0.031646826304495335
+  saturation: 0.857149331830442
+  rhythmicContrast: 0.37302105338312685
+purpose: []
